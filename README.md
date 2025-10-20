@@ -1,16 +1,3 @@
----
-title: "Bellabeat Smart Device Usage Analysis"
-subtitle: "Guiding Marketing Strategy for Increased User Engagement"
-author: "Sahana p"
-date: "2025-09-27"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    theme: "cerulean"
-  
----
-
 
 ## Introduction
 
